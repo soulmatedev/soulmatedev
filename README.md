@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working in Alvile
 - ⚡ Fun fact: I'm always hungry)
-My Technology stack:
+- My Technology stack:
+
 
 <div>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
