@@ -1,4 +1,4 @@
-### Hiya👋, I am Egor, studying frontend programming😉
+### Hiya👋, I am Egor, 17 years old, studying frontend programming😉
 
 - 🔭 I’m currently working in Alvile
 - ⚡ Fun fact: I'm always hungry)
