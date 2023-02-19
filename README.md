@@ -1,6 +1,7 @@
 ### Hiya👋, I am Egor, 17 years old, studying frontend programming😉
 
 - 🔭 I’m currently working in Alvile
+- 🧑‍🎓I’m currently learning TypeScript and React
 - ⚡ Fun fact: I'm always hungry)
 - My Technology stack:
 
