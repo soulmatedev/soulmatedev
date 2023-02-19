@@ -15,11 +15,9 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 </div>
-Connect with me:
- 📫 My Email: egor.unknown05@mail.ru   My Telegram: <a href="https://t.me/soulmate_ee" target="_blank">
+Connect with me: 📫 My Email: egor.unknown05@mail.ru  or  My Telegram: <a href="https://t.me/soulmate_ee" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
 </a>  
-  
   
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=soulmate45&&style=flat-square" align="center" />
