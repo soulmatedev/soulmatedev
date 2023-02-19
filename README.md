@@ -1,8 +1,18 @@
 ### Hiya👋, I am Egor, 17 years old, studying frontend programming😉
+ 
+ 
+- 🔭 I’m currently working on Alvile
 
-- 🔭 I’m currently working in Alvile
 - 🧑‍🎓I’m currently learning TypeScript and React
+
 - ⚡ Fun fact: I'm always hungry)
+
+- 📫 My Email: egor.unknown05@mail.ru
+
+- Connect with me: <a href="https://t.me/soulmate_ee" target="_blank"> <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt=Telegram style="margin-bottom: 5px;" />
+</a>  <a href="https://vk.com/0soulmate0" target="_blank"> <img src="https://img.shields.io/badge/Вконтакте-4682B4?style=for-the-badge&logo=VK&logoColor=FFFFFF" alt=Вконтакте style="margin-bottom: 5px;" />
+</a>  
+
 - My Technology stack:
 
 
