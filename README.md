@@ -6,11 +6,9 @@
 
 - 📫 My Email: khokhlov.dev@gmail.com
 
-- Connect with me: <a href="https://t.me/soulmate_dev" target="_blank"> <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt=Telegram style="margin-bottom: 5px;" />
-</a>  <a href="https://vk.com/0soulmate0" target="_blank"> <img src="https://img.shields.io/badge/Вконтакте-4682B4?style=for-the-badge&logo=VK&logoColor=FFFFFF" alt=Вконтакте style="margin-bottom: 5px;" />
-</a>  
+<h3>Connect with me: <a href="https://t.me/soulmate_dev" target="_blank"> <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt=Telegram style="margin-bottom: 5px;" /></a>
 
-<h3>- My Technology stack:</h2>
+<h3>My Technology stack:</h3>
 
 <div>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
