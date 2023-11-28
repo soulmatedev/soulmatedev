@@ -1,8 +1,8 @@
-<h1> Hiya👋, I am Egor, studying frontend programming😉</h1>
+<h1> Hi👋, my name is Egor, I am a frontend programmer😉.</h1>
 
 - 🔭 I am currently working on Rombal Space and other interesting projects.
 
-- 🧑‍🎓I’m currently learning TypeScript and React.
+- 🧑‍🎓I'm learning TypeScript and React.
 
 - 📫 My Email: khokhlov.dev@gmail.com
 
