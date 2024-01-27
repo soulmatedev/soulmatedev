@@ -1,4 +1,4 @@
-<h1> Hi👋 I am a frontend programmer😉.</h1>
+<h1> Hiya👋</h1>
 
 - 🔭 I am currently working on Rombal Space and other interesting projects.
 
