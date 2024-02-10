@@ -1,6 +1,6 @@
 <h1> Hiya👋</h1>
 
-- 🔭 I am currently working on Rombal Space and other interesting projects.
+- 🔭 I am currently working on Rombal Space and Wakadoo.
 
 - 🧑‍🎓I'm learning TypeScript and React.
 
