@@ -1,6 +1,6 @@
-# Hiya👋
+# Greetings, cosmic wanderer! 🌌
 
-- 🔭 I am currently working on **LUNARA** and **Wakadoo**.
+- 🔭 I am currently working on **Lunara** and **Wakadoo**.
 
 - 🧑‍🎓I'm learning TypeScript and React.
 
