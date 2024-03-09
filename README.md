@@ -1,6 +1,6 @@
 # Greetings, cosmic wanderer! 🌌
 
-🔭 I am currently working on **Wakadoo**.
+🔭 I am currently working on "**Wakadoo**".
 
 🧑‍🎓I'm learning TypeScript and React.
 
