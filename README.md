@@ -2,7 +2,7 @@
 
 🔭 I am currently working on **Wakadoo**.
 
-🧑‍🎓I'm learning TypeScript and React.
+🧑‍🎓 I'm learning TypeScript and React.
 
 📫 My Email: khokhlov.dev@gmail.com
 
