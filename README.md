@@ -22,7 +22,7 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="@soulmate_dev" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt=Telegram style="margin-bottom: 5px;"/>
 </a>
 </div>  
