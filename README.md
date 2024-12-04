@@ -1,6 +1,7 @@
 # Greetings, cosmic wanderer! 🌌
+🔭 Working on **Wakadoo**
 
-🔭 Working on **Wakadoo**.
+✨ Instagram: developerfromkurgan
 
 📫 My Email: khokhlov.dev@gmail.com
 
